@@ -5,3 +5,4 @@ Apple
 Banana
 Cherry
 Carrot
+Cereal
